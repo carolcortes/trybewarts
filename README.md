@@ -24,7 +24,7 @@
  
 ![image](https://user-images.githubusercontent.com/98475840/203175150-5ba8234a-d2e1-4396-b0b7-69df9c03785b.png)
 
-###### Projeto desenvolvido por: [Carol Cortes](https://github.com/carolcortes)
+###### Projeto desenvolvido por: [Carol Cortes](https://github.com/carolcortes) e [Graciele Sampaio](https://github.com/graciele-sampaio) :rocket:
 
   <a href = "mailto:caroline.ocortes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinecortess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
